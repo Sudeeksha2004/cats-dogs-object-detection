@@ -2,3 +2,4 @@ ML/video.mp4
 runs/detect/predict3/video.avi
 runs/detect/sample_yolov8_model/weights/*.pt
 runs/detect/sample_yolov8_model2/short_video.avi
+.DS_Store
